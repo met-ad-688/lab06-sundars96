@@ -2,6 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
+lightcast_job_postings.csv
 
 # C extensions
 *.so
